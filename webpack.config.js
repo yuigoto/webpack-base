@@ -51,7 +51,7 @@ const getEntryPointFile = (folder) => {
 
   for (let extension of extensions) {
     if (fileList.includes(`index.${extension}`)) {
-      return `index.${ext}`;
+      return `index.${extension}`;
     }
   }
 
