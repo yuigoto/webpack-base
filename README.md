@@ -8,7 +8,16 @@ Além disso, a ideia é fornecer um app modificável, aonde o desenvolvedor tenh
 
 Algumas coisas em que você pode usar este projeto, com algumas ou quase nenhuma modificação:
 
-- Aplicações usando [React](https://github.com/yuigoto/react-webpack-base), [Preact](https://github.com/yuigoto/preact-webpack-base), [Vue 2](https://github.com/yuigoto/vue2-webpack-base) (e [Vue 3](https://github.com/yuigoto/vue3-webpack-base)), [Svelte](https://github.com/yuigoto/svelte-webpack-base), [Lit](https://github.com/yuigoto/vue3-webpack-base) ou Vanilla JS mesmo;
+- Aplicações usando diversos frameworks front end. Fiz alguns exemplos usando o seguinte:
+  - [React](https://github.com/yuigoto/react-webpack-base);
+  - [Preact](https://github.com/yuigoto/preact-webpack-base);
+  - [Vue 2](https://github.com/yuigoto/vue2-webpack-base) (e [Vue 3](https://github.com/yuigoto/vue3-webpack-base));
+  - [Svelte](https://github.com/yuigoto/svelte-webpack-base);
+  - [Lit](https://github.com/yuigoto/vue3-webpack-base);
+  - [AlpineJS](https://github.com/yuigoto/alpinejs-webpack-base);
+  - [Surplus (com S.js)](https://github.com/yuigoto/surplus-webpack-base);
+  - [AngularJS](https://github.com/yuigoto/angularjs-webpack-base) (é, eu fiz isso, mas foi por diversão :sweat_smile:);
+  - Ou JavaScript puro mesmo, como este projeto aqui;
 - Websites estáticos;
 - Bibliotecas JS/TS (exemplo [aqui](https://github.com/yuigoto/jsts-library-boilerplate), em inglês);
 - Games em HTML5 usando Phaser (exemplos um pouco datados [aqui](https://github.com/yuigoto/phaser-ce-base) e [aqui](https://github.com/yuigoto/phaser-3-base));
