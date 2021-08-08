@@ -24,7 +24,7 @@
       "@babel/plugin-transform-react-jsx",
       {
         "runtime": "classic",
-        "pragma": "createElement",
+        "pragma": "YX.createElement",
         "pragmaFrag": "'fragment'"
       }
     ],
