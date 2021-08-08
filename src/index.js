@@ -1,8 +1,8 @@
-import { createElement } from "core";
+import YX from "core";
 import { App } from "views/App";
 import "styles/main.scss";
 
-window.createElement = createElement;
+window.YX = YX;
 
 document.body.appendChild(
   <App/>

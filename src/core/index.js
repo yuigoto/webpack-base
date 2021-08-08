@@ -46,3 +46,7 @@ export const createElement = (tagName, props = {}, ...children) => {
 
   return element;
 };
+
+export default {
+  createElement
+};
